@@ -3056,7 +3056,7 @@ sns.boxplot(x='drive-wheels', y='price', data=df)
 
 
     
-![png](output_18_1.png)
+![png](/src/output_18_1.png)
     
 
 
@@ -3097,7 +3097,7 @@ plt.ylabel('Engine Size')
 
 
     
-![png](output_19_1.png)
+![png](/src/output_19_1.png)
     
 
 
@@ -3340,7 +3340,7 @@ df_pivot
 
 
     
-![png](output_22_0.png)
+![png](/src/output_22_0.png)
     
 
 
@@ -3520,7 +3520,7 @@ plt.ylim(0,)
 
 
     
-![png](output_24_1.png)
+![png](/src/output_24_1.png)
     
 
 
@@ -4520,7 +4520,7 @@ sns.residplot(x=df['horsepower'],y=df['price'])
 
 
     
-![png](output_29_1.png)
+![png](/src/output_29_1.png)
     
 
 
@@ -4611,7 +4611,7 @@ sns.distplot(yhat,hist=False,color='b', label='Predicted Values',ax=axl, axlabel
 
 
     
-![png](output_30_2.png)
+![png](/src/output_30_2.png)
     
 
 
@@ -5215,7 +5215,7 @@ sns.distplot(yhat, hist = False, color='b', label= 'Adapted Values')
 
 
     
-![png](output_35_2.png)
+![png](/src/output_35_2.png)
     
 
 
